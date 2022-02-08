@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.logo-Img
+{
+    width: 6rem;
+}
+.navbar
+{
+    display: flex;
+    align-items: center;
+    padding: 1.4rem;
+}
+nav{
+    flex: 1;
+    text-align: right;
+
+}
+nav ul{
+    display: block;
+    list-style-type: none;
+
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 1.5rem;
+    font-size:1.2rem;
+}
+a{
+    text-decoration: none;
+    color:#555;
+}
+p
+{
+    color:#555
+}
+.container
+{
+    max-width:82rem;
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.search{
+    height: 2rem;
+    margin-right: 8rem;
+}
+.search-logo
+{
+    margin-right: 8rem;
+}
+.row
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.col-2
+{
+    flex-basis: 50%;
+    min-width: 18rem;
+}
+.col-2 img{
+    max-width: 100%;
+    padding: 3.5rem;
+}
+
+.col-2 h1
+{
+    font-size: 3.1rem;
+    line-height: 3.7rem;
+    margin: 2rem 0px;
+}
+.btn{
+    display: inline-block;
+    background: black;
+    color:#fff;
+    padding: 0.5rem 2.2rem;
+    margin: 2.2rem 0;
+    border-radius: 2.2rem;
+
+}
+.header
+{
+    background: radial-gradient(white,black);
+}
+.header .row
+{
+    margin-top: 5rem;
+}
+
+.categories
+{
+    margin:5rem 0;
+}
+.col-3{
+    flex-basis: 30%;
+    min-width: 16rem;
+    margin-bottom: 2.4rem;
+}
+.col-3 img
+{
+    width: 100%;
+}
+.small-conatiner
+{
+    max-width: 68rem;
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
