@@ -3,6 +3,7 @@
 :root{
     --black:#555;
     --white:#fff;
+    --grey:#ccc;
 }
 *{
     padding: 0;

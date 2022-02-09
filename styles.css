@@ -36,9 +36,8 @@
     background: var(--black);
     color:var(--white);
     padding: 0.5rem 2.2rem;
-    margin: 2.2rem 0;
+    /* margin: 2.2rem 0; */
     border-radius: 2.2rem;
-
 }
 .header
 {
@@ -50,8 +49,7 @@
 }
 
 .categories
-{
-    
+{ 
     margin:6rem 0;
 }
 .col-3{
