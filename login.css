@@ -74,11 +74,11 @@ form input
 }
 .btn-register{
     
-        display: inline-block;
-        background: var(--black);
-        color:var(--white);
-        padding: 0.5rem 2.2rem;
-        border-radius: 2.2rem;
+ display: inline-block;
+ background: var(--black);
+ color:var(--white);
+ padding: 0.5rem 2.2rem;
+ border-radius: 2.2rem;
 }
 .col-form
 {
