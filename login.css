@@ -84,3 +84,7 @@ form input
 {
     margin-top: 6rem;
 }
+.register
+{
+    color:var(--white);
+}
