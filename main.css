@@ -4,6 +4,7 @@
     --black:#555;
     --white:#fff;
     --grey:#ccc;
+    --boxshawdow:rgb(0 0 0 / 10%);
 }
 *{
     padding: 0;
