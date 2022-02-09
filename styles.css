@@ -21,12 +21,10 @@ body
 nav{
     flex: 1;
     text-align: right;
-
 }
 nav ul{
     display: block;
     list-style-type: none;
-
 }
 nav ul li{
     display: inline-block;
@@ -35,11 +33,11 @@ nav ul li{
 }
 a{
     text-decoration: none;
-    color:#555;
+    color:var(--black)
 }
 p
 {
-    color:white;
+    color:var(--white)
 }
 .container
 {
@@ -82,16 +80,15 @@ p
 }
 .btn{
     display: inline-block;
-    background: black;
-    color:#fff;
+    background: var(--black);
+    color:var(--white);
     padding: 0.5rem 2.2rem;
     margin: 2.2rem 0;
     border-radius: 2.2rem;
-
 }
 .header
 {
-    background: radial-gradient(white,black);
+    background: radial-gradient(var(--white),var(--black));
 }
 .header .row
 {
