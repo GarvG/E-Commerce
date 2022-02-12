@@ -5,6 +5,9 @@
     --white:#fff;
     --grey:#ccc;
     --boxshawdow:rgb(0 0 0 / 10%);
+    --placeorder:#3B82F6;
+    --tag:red;
+    --removeC:#9A9A9A;
 }
 *{
     padding: 0;
