@@ -10,7 +10,6 @@
     box-shadow: 0px 0px 11px 0px var(--boxshawdow);
     padding: 10px;
 }
-
 ul
 {
     list-style: none;
@@ -41,7 +40,8 @@ input[type='range']
     background-color: var(--black);
     width: 14rem;
 }
-h2{
+h2
+{
     margin: 1rem 0;
     font-weight: 600;
 }
@@ -93,7 +93,6 @@ li
     top: 10px;
     right: 10px;
     color:var(--removeC);
-   
     border-radius: 50%;
     border: none;
     cursor: pointer;
